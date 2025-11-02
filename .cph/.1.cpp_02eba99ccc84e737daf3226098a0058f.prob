@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"c:\\codeforces.cpp\\800rating\\1.cpp","tests":[{"id":1761809561040,"input":"3\nRRG\n","output":"1"},{"id":1761809790725,"input":"5\nRRRRR\n","output":"4"},{"id":1761809804152,"input":"4\nBRBG\n","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\codeforces.cpp\\800rating\\1.cpp","group":"local","local":true}

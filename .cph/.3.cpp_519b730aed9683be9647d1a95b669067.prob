@@ -1,0 +1,1 @@
+{"name":"Local: 3","url":"c:\\codeforces.cpp\\800rating\\3.cpp","tests":[{"id":1761890835747,"input":"HoUse\n","output":"house\n"},{"id":1761890894809,"input":"ViP\n","output":"VIP\n"},{"id":1761901782361,"input":"maTRIx\n","output":"matrix\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\codeforces.cpp\\800rating\\3.cpp","group":"local","local":true}
