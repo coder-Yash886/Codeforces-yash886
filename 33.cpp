@@ -1,0 +1,12 @@
+#include<iostream>
+#include<cmath>
+#include<vector>
+using namespace std;
+
+int main() {
+   int n;
+   cin>>n;
+   if(n==1) cout<<"5"<<"\n";
+   else  cout<<"25\n";
+   return 0;
+}
