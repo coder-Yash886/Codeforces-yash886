@@ -1,0 +1,1 @@
+{"name":"Local: 13","url":"c:\\codeforces.cpp\\900\\900rating\\13.cpp","tests":[{"id":1775815191453,"input":"4\nabacaba\nacaba\nabacaba\nacab\n","output":"OK\nOK\nabacaba1\nOK\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\codeforces.cpp\\900\\900rating\\13.cpp","group":"local","local":true}

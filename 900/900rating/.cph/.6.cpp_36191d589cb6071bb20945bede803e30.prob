@@ -1,0 +1,1 @@
+{"name":"Local: 6","url":"c:\\codeforces.cpp\\900\\900rating\\6.cpp","tests":[{"id":1774592287564,"input":"1\n2\n3\n","output":"9"},{"id":1774592302448,"input":"2\n10\n3\n","output":"60\n"},{"id":1774592417935,"input":"1 2 1","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\codeforces.cpp\\900\\900rating\\6.cpp","group":"local","local":true}
